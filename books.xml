@@ -1,0 +1,34 @@
+<books>
+    <book>
+        <name>La química del amor</name>
+        <author>Ali Hazelwood</author>
+    </book>
+    <book>
+        <name>La hipótesis del amor</name>
+        <author>Ali Hazelwood</author>
+    </book>
+    <book>
+        <name>La búsqueda del cliché perfecto</name>
+        <author>Michelle Durán</author>
+    </book>
+    <book>
+        <name>Y el mundo no dejaba de girar</name>
+        <author>Susana Herrero</author>
+    </book>
+    <book>
+        <name>Empire of Sin</name>
+        <author>Rina Kent</author>
+    </book>
+    <book>
+        <name>Novia</name>
+        <author>Ali Hazelwood</author>
+    </book>
+    <book>
+        <name>Kaoru Hana wa Rin to Saku</name>
+        <author>Saka Mikami</author>
+    </book>
+    <book>
+        <name>Ao no Hako</name>
+        <author>Kouji Miura</author>
+    </book>
+</books>
