@@ -1,0 +1,17 @@
+* {
+    overflow-x: hidden;
+    font-family: system-ui;
+    user-select: none;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+html {
+    height: 100%;
+    background: rosybrown;
+}
+
+#querybox {
+}
