@@ -1,13 +1,15 @@
-const DATA_DIR = "./data";
+// const DATA_DIR = "./data";
 const QUERY_ID = "querybox";
 const TABLE_ID = "results";
-let fileList = [];
+let fileList = ["./data/anime.csv"];
 
+/*
 const fs = require("fs");
 
 fs.readdir(DATA_DIR, (err, file) => {
     if (!err) fileList.append(file);
 });
+*/
 
 // Function to fetch and parse CSV files
 async function loadCSVFiles() {
