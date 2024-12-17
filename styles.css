@@ -14,4 +14,10 @@ html {
 }
 
 #querybox {
+    width: 80%;
+    font-size: 16px;
+    padding: 12px 20px 12px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 12px;
 }
