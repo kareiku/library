@@ -7,7 +7,6 @@ const loadJSON = async (url) => {
     if (cachedData) {
         return JSON.parse(cachedData);
     }
-
     const response = await fetch(url);
     const jsonData = await response.json();
     localStorage.setItem(url, JSON.stringify(jsonData));
