@@ -1,3 +1,7 @@
+const DATA = "data.json";
+const QUERY_ID = "querybox";
+const TABLE_ID = "results";
+
 const loadJSON = async (url) => {
     const cachedData = localStorage.getItem(url);
     if (cachedData) {
@@ -15,7 +19,7 @@ const queryData = (data, searchTerm) => {
 };
 
 const updateResults = (data) => {
-    const table = document.getElementById("resultsTable");
+    const table = document.getElementById(TABLE_ID);
     table.innerHTML = "";
     data.forEach(row => {
         const tr = document.createElement("tr");
@@ -29,10 +33,10 @@ const updateResults = (data) => {
 };
 
 const loadAndQueryData = async () => {
-    const data = await loadJSON('data.json');
-    const searchTerm = document.getElementById("searchBox").value;
+    const data = await loadJSON(DATA);
+    const searchTerm = document.getElementById(QUERY_ID).value;
     const filteredData = queryData(data.table1, searchTerm);
     updateResults(filteredData);
 };
 
-document.getElementById("querybox").addEventListener("input", loadAndQueryData);
+document.getElementById(QUERY_ID).addEventListener("input", loadAndQueryData);
