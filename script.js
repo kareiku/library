@@ -35,10 +35,4 @@ const loadAndQueryData = async () => {
     updateResults(filteredData);
 };
 
-document.getElementById("searchBox").addEventListener("input", loadAndQueryData);
-
-document.getElementById("querybox").addEventListener("keydown", function(event) {
-    if (event.key === "Enter") {
-        console.log("Enter key pressed!");
-    }
-});
+document.getElementById("querybox").addEventListener("input", loadAndQueryData);
