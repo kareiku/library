@@ -14,6 +14,7 @@ fetch("./data.json")
                     img.src = match[0];
                     cell.innerHTML = "";
                     cell.appendChild(img);
+                }
             });
         });
     })
