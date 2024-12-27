@@ -21,6 +21,7 @@ input {
 
 table {
     background: white;
+    border: 1px solid black;
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
