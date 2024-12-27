@@ -19,7 +19,7 @@ input {
     width: 60%;
 }
 
-table {
+table, th, td {
     background: white;
     border: 1px solid black;
     margin-left: auto;
@@ -27,11 +27,7 @@ table {
     padding: 10px;
 }
 
-th, td {
-    background: lightgray;
-}
-
 img {
-    max-height: 100px;
-    max-width: 75px
+    max-height: 150px;
+    max-width: 112.5px
 }
