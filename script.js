@@ -20,8 +20,19 @@ fetch("./data.json")
     })
     .catch(error => console.error(error));
 
-const tableData = document.getElementById("results");
+const table = document.getElementById("results");
+    const rows = Array.from(table.querySelectorAll("tbody tr"));
+    const originalData = rows.map(row => 
+        Array.from(row.cells).map(cell => cell.textContent)
+    );
+    document.getElementById("filter").addEventListener("input", (event) => {
+        const query = event.target.value.toLowerCase();
+        const filteredData = originalData.filter(row => 
+            row[0].toLowerCase().includes(query)
+        );
 
-function filter() {
-    let table = document.getElementById("results");
-}
+        const tbody = table.querySelector("tbody");
+        tbody.innerHTML = filteredData.map(row =>
+            `<tr>${row.map(cell => `<td>${cell}</td>`).join("")}</tr>`
+        ).join("");
+    });
