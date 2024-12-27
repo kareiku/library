@@ -8,7 +8,8 @@ fetch("./data.json")
             values.forEach(value => {
                 let cell = row.insertCell();
                 cell.innerHTML = value || null;
-                if (const match = cell.innerHTML.match(/https?:\/\/[^\s]+/)) {
+                const match = cell.innerHTML.match(/https?:\/\/[^\s]+/)
+                if (match) {
                     const img = document.createElement("img");
                     img.src = match[0];
                     cell.innerHTML = "";
