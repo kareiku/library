@@ -26,3 +26,7 @@ table {
     margin-right: auto;
     padding: 10px;
 }
+
+table.th {
+    background: red;
+}
