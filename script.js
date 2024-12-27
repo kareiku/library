@@ -17,6 +17,7 @@ fetch("./data.json")
         });
     })
     .catch(error => console.error(error));
-
+/*
 const tableData = document.getElementById("results");
 console.log(typeof tableData);
+*/
