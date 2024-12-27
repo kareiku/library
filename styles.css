@@ -19,15 +19,11 @@ input {
     width: 60%;
 }
 
-table {
+table, th, td {
     background: white;
-    border: 2px solid black;
+    border: 2px solid black collapse;
     margin-left: auto;
     margin-right: auto;
-}
-
-th, td {
-    background: white;
 }
 
 img {
