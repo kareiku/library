@@ -20,10 +20,17 @@ input {
 }
 
 table, th, td {
-    background: white;
-    border: 1px solid black;
     margin-left: auto;
     margin-right: auto;
+    padding: 10px;
+}
+
+table {
+    background: black;
+}
+
+th, td {
+    background: white;
 }
 
 img {
