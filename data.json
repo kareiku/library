@@ -1,636 +1,1080 @@
 [
     {
-        "title": "Assassination Classroom",
-        "src": "https://cdn.myanimelist.net/images/anime/5/75639l.jpg"
+        "name": "Assassination Classroom",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/5/75639l.jpg"
     },
     {
-        "title": "Sword Art Online",
-        "src": "https://cdn.myanimelist.net/images/anime/8/36343l.jpg"
+        "name": "Sword Art Online",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/8/36343l.jpg"
     },
     {
-        "title": "No Game No Life",
-        "src": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg"
+        "name": "No Game No Life",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg"
     },
     {
-        "title": "Death Note",
-        "src": "https://cdn.myanimelist.net/images/anime/1001/121564l.jpg"
+        "name": "Death Note",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1001/121564l.jpg"
     },
     {
-        "title": "Shingeki no Kyojin",
-        "src": "https://cdn.myanimelist.net/images/anime/1907/134102l.jpg"
+        "name": "Shingeki no Kyojin",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1907/134102l.jpg"
     },
     {
-        "title": "Re:Zero",
-        "src": "https://cdn.myanimelist.net/images/anime/1534/134863l.jpg"
+        "name": "Re:Zero",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1534/134863l.jpg"
     },
     {
-        "title": "Blue Exorcist",
-        "src": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg"
+        "name": "Blue Exorcist",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg"
     },
     {
-        "title": "Fairy Tail",
-        "src": "https://cdn.myanimelist.net/images/anime/7/59441l.jpg"
+        "name": "Fairy Tail",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/7/59441l.jpg"
     },
     {
-        "title": "Little Witch Academia",
-        "src": "https://cdn.myanimelist.net/images/anime/13/83934l.jpg"
+        "name": "Little Witch Academia",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/13/83934l.jpg"
     },
     {
-        "title": "Black Clover",
-        "src": "https://cdn.myanimelist.net/images/anime/1232/93334l.jpg"
+        "name": "Black Clover",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1232/93334l.jpg"
     },
     {
-        "title": "K-On!",
-        "src": "https://cdn.myanimelist.net/images/anime/10/76120l.jpg"
+        "name": "K-On!",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/10/76120l.jpg"
     },
     {
-        "title": "Haikyuu!!",
-        "src": "https://cdn.myanimelist.net/images/anime/7/76014l.jpg"
-    },
-    {
-        "title": "Hibike Euphonium",
-        "src": "https://cdn.myanimelist.net/images/anime/6/72445l.jpg"
-    },
-    {
-        "title": "Kakegurui",
-        "src": "https://cdn.myanimelist.net/images/anime/3/86578l.jpg"
-    },
-    {
-        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
-        "src": "https://cdn.myanimelist.net/images/anime/1895/119503l.jpg"
-    },
-    {
-        "title": "Jujutsu Kaisen",
-        "src": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
-    },
-    {
-        "title": "Sora yori mo Tooi Basho",
-        "src": "https://cdn.myanimelist.net/images/anime/12/89878l.jpg"
-    },
-    {
-        "title": "Kobayashi-san Chi no Maid Dragon",
-        "src": "https://cdn.myanimelist.net/images/anime/5/85434l.jpg"
-    },
-    {
-        "title": "Jojo's Bizarre Adventure",
-        "src": "https://cdn.myanimelist.net/images/anime/3/40409l.jpg"
-    },
-    {
-        "title": "Wonder Egg Priority",
-        "src": "https://cdn.myanimelist.net/images/anime/1079/110751l.jpg"
-    },
-    {
-        "title": "Anohana",
-        "src": "https://cdn.myanimelist.net/images/anime/1875/105235l.jpg"
-    },
-    {
-        "title": "Yuru Camp",
-        "src": "https://cdn.myanimelist.net/images/anime/4/89877l.jpg"
-    },
-    {
-        "title": "Majo no Tabitabi",
-        "src": "https://cdn.myanimelist.net/images/anime/1802/108501l.jpg"
-    },
-    {
-        "title": "Naruto",
-        "src": "https://cdn.myanimelist.net/images/anime/13/17405l.jpg"
-    },
-    {
-        "title": "Adachi to Shimamura",
-        "src": "https://cdn.myanimelist.net/images/manga/2/232193l.jpg"
-    },
-    {
-        "title": "Komi-san wa, Komyushou Desu",
-        "src": "https://cdn.myanimelist.net/images/anime/1899/117237l.jpg"
-    },
-    {
-        "title": "Bloom Into You",
-        "src": "https://cdn.myanimelist.net/images/manga/1/232311l.jpg"
-    },
-    {
-        "title": "Bloom Into You (Light Novel)",
-        "src": "https://cdn.myanimelist.net/images/manga/3/222780l.jpg"
-    },
-    {
-        "title": "Science Fell in Love, So I Tried to Prove It",
-        "src": "https://cdn.myanimelist.net/images/anime/1432/103533l.jpg"
-    },
-    {
-        "title": "Spy x Family",
-        "src": "https://cdn.myanimelist.net/images/anime/1823/119156l.jpg"
-    },
-    {
-        "title": "Jibaku Shōnen Hanako-kun",
-        "src": "https://cdn.myanimelist.net/images/anime/1700/104788l.jpg"
-    },
-    {
-        "title": "Link Click",
-        "src": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg"
-    },
-    {
-        "title": "Classroom of the Elite",
-        "src": "https://cdn.myanimelist.net/images/anime/7/86829l.jpg"
-    },
-    {
-        "title": "Non Non Biyori",
-        "src": "https://cdn.myanimelist.net/images/anime/2/51581l.jpg"
-    },
-    {
-        "title": "Hōseki no Kuni",
-        "src": "https://cdn.myanimelist.net/images/anime/3/88293l.jpg"
-    },
-    {
-        "title": "RWBY",
-        "src": "https://pics.filmaffinity.com/rwby-751014904-large.jpg"
-    },
-    {
-        "title": "RWBY: Ice Queendom",
-        "src": "https://cdn.myanimelist.net/images/anime/1356/121832l.jpg"
-    },
-    {
-        "title": "Lycoris Recoil",
-        "src": "https://cdn.myanimelist.net/images/anime/1392/124401l.jpg"
-    },
-    {
-        "title": "Oregairu",
-        "src": "https://cdn.myanimelist.net/images/anime/1786/120117l.jpg"
-    },
-    {
-        "title": "Bocchi the Rock!",
-        "src": "https://cdn.myanimelist.net/images/anime/1448/127956l.jpg"
-    },
-    {
-        "title": "Beyond the Boundary",
-        "src": "https://cdn.myanimelist.net/images/anime/3/85468l.jpg"
-    },
-    {
-        "title": "Mobile Suit Gundam: The Witch from Mercury",
-        "src": "https://cdn.myanimelist.net/images/anime/1440/127624l.jpg"
-    },
-    {
-        "title": "Domestic na Kanojo",
-        "src": "https://cdn.myanimelist.net/images/anime/1117/111599l.jpg"
-    },
-    {
-        "title": "Kimi no Na wa.",
-        "src": "https://cdn.myanimelist.net/images/anime/9/77484l.jpg"
-    },
-    {
-        "title": "Weathering with You",
-        "src": "https://cdn.myanimelist.net/images/anime/1880/101146l.jpg"
-    },
-    {
-        "title": "I Want to Eat Your Pancreas",
-        "src": "https://cdn.myanimelist.net/images/anime/11/90070l.jpg"
-    },
-    {
-        "title": "Bubble",
-        "src": "https://cdn.myanimelist.net/images/anime/1011/121152l.jpg"
-    },
-    {
-        "title": "Kase-san Shirīzu",
-        "src": "https://cdn.myanimelist.net/images/anime/1578/94205l.jpg"
-    },
-    {
-        "title": "Asagao to Kase-san / Yamada to Kase-san",
-        "src": "https://cdn.myanimelist.net/images/manga/3/192176l.jpg"
-    },
-    {
-        "title": "Suzume no Tojimari",
-        "src": "https://cdn.myanimelist.net/images/anime/1598/128450l.jpg"
-    },
-    {
-        "title": "A Silent Voice",
-        "src": "https://cdn.myanimelist.net/images/anime/1347/134168l.jpg"
-    },
-    {
-        "title": "Arcane",
-        "src": "https://pics.filmaffinity.com/arcane_league_of_legends-624235408-large.jpg"
-    },
-    {
-        "title": "Steven Universe",
-        "src": "https://pics.filmaffinity.com/steven_universe-632270359-large.jpg"
-    },
-    {
-        "title": "Persona 5: The Animation",
-        "src": "https://cdn.myanimelist.net/images/anime/1230/95768l.jpg"
-    },
-    {
-        "title": "Persona 5",
-        "src": "https://cdn.myanimelist.net/images/manga/1/272390l.jpg"
-    },
-    {
-        "title": "Adam by Eve: A Live in Animation",
-        "src": "https://pics.filmaffinity.com/adam_by_eve_a_live_in_animation-892242764-large.jpg"
-    },
-    {
-        "title": "The Super Mario Bros. Movie",
-        "src": "https://pics.filmaffinity.com/the_super_mario_bros_movie-521125124-large.jpg"
-    },
-    {
-        "title": "Alter Ego",
-        "src": "https://proassetspdlcom.cdnstatics2.com/usuaris/libros/thumbs/ac114741-9438-4561-a749-746ebf448762/d_1200_1200/portada_planeta-manga-alter-ego__202011171333.webp"
-    },
-    {
-        "title": "Noel y June",
-        "src": "https://pbs.twimg.com/media/Fj9mC9BXgAA2_3U?format=jpg&name=4096x4096"
-    },
-    {
-        "title": "Sirius",
-        "src": "https://proassetspdlcom.cdnstatics2.com/usuaris/libros/thumbs/32aa5e1c-6d4c-498a-b0f9-cf0340fc8d85/d_360_620/portada_planeta-manga-sirius_ana-c-sanchez_202201121309.webp"
-    },
-    {
-        "title": "Limbo",
-        "src": "https://proassetspdlcom.cdnstatics2.com/usuaris/libros/thumbs/4403a9cf-a87f-4605-a57f-3aca85955713/d_1200_1200/portada_planeta-manga-limbo-n-01__202212220954.webp"
-    },
-    {
-        "title": "Déjame que te cuente...",
-        "src": "https://m.media-amazon.com/images/I/81mvurKh0YL._AC_UF1000,1000_QL80_.jpg"
-    },
-    {
-        "title": "Mirai Nikki",
-        "src": "https://cdn.myanimelist.net/images/anime/1059/128279l.jpg"
-    },
-    {
-        "title": "Another",
-        "src": "https://cdn.myanimelist.net/images/anime/4/75509l.jpg"
-    },
-    {
-        "title": "Breaking Bad",
-        "src": "https://pics.filmaffinity.com/breaking_bad-504442815-large.jpg"
-    },
-    {
-        "title": "Chilling Adventures of Sabrina",
-        "src": "https://pics.filmaffinity.com/chilling_adventures_of_sabrina-595796535-large.jpg"
-    },
-    {
-        "title": "The Owl House",
-        "src": "https://pics.filmaffinity.com/the_owl_house-115402703-large.jpg"
-    },
-    {
-        "title": "You",
-        "src": "https://pics.filmaffinity.com/you-795614651-large.jpg"
-    },
-    {
-        "title": "Cunk on Earth",
-        "src": "https://pics.filmaffinity.com/cunk_on_earth-680072871-large.jpg"
-    },
-    {
-        "title": "Cyberpunk: Edgerunners",
-        "src": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg"
-    },
-    {
-        "title": "Given",
-        "src": "https://cdn.myanimelist.net/images/manga/1/172497l.jpg"
-    },
-    {
-        "title": "Sasaki to Miyano",
-        "src": "https://cdn.myanimelist.net/images/manga/3/187122l.jpg"
-    },
-    {
-        "title": "I'm in Love with the Villainess",
-        "src": "https://cdn.myanimelist.net/images/manga/2/238641l.jpg"
-    },
-    {
-        "title": "I'm in Love with the Villainess: Revolution (Light Novel)",
-        "src": "https://cdn.myanimelist.net/images/manga/1/253475l.jpg"
-    },
-    {
-        "title": "I'm in Love with the Villainess: She's so Cheeky for a Commoner (Light Novel)",
-        "src": "https://m.media-amazon.com/images/I/81mJ19LurZL._SL1500_.jpg"
-    },
-    {
-        "title": "Whisper Me a Love Song",
-        "src": "https://cdn.myanimelist.net/images/manga/1/219489l.jpg"
-    },
-    {
-        "title": "I Married My Best Friend To Shut My Parents Up",
-        "src": "https://cdn.myanimelist.net/images/manga/1/212825l.jpg"
-    },
-    {
-        "title": "Lonely Girl ni Sakaraenai",
-        "src": "https://cdn.myanimelist.net/images/manga/2/246835l.jpg"
-    },
-    {
-        "title": "Alcohol Yuri Anthology: Strong!",
-        "src": "https://cdn.myanimelist.net/images/manga/1/241920l.jpg"
-    },
-    {
-        "title": "Throw Away the Suit Together",
-        "src": "https://cdn.myanimelist.net/images/manga/3/257275l.jpg"
-    },
-    {
-        "title": "Hyouka",
-        "src": "https://cdn.myanimelist.net/images/anime/1477/103375l.jpg"
-    },
-    {
-        "title": "Why is my crush so hard on me?",
-        "src": "https://static.bunnycdn.ru/i/cache/images/d/d9/d99276259d041b66b6a2bd8c1c7b3556.jpg"
-    },
-    {
-        "title": "A Hundred Scenes of Girls' Love",
-        "src": "https://static.bunnycdn.ru/i/cache/images/3/3b/3b9e6bbaf34fc6a0a09bf15a984149db.jpg"
-    },
-    {
-        "title": "Syrup: A Yuri Anthology",
-        "src": "https://cdn.myanimelist.net/images/manga/3/247345l.jpg"
-    },
-    {
-        "title": "The Girl Doesn't Know Her Heart.",
-        "src": "https://cdn.myanimelist.net/images/manga/3/246368l.jpg"
-    },
-    {
-        "title": "Whispered Words",
-        "src": "https://cdn.myanimelist.net/images/manga/2/217658l.jpg"
-    },
-    {
-        "title": "My Wish Is to Fall in Love Until You Die.",
-        "src": "https://cdn.myanimelist.net/images/manga/1/215753l.jpg"
-    },
-    {
-        "title": "I Can't Believe I Slept With You!",
-        "src": "https://cdn.myanimelist.net/images/manga/2/226062l.jpg"
-    },
-    {
-        "title": "The Summer You Were There",
-        "src": "https://cdn.myanimelist.net/images/manga/1/239675l.jpg"
-    },
-    {
-        "title": "Kimi wa Natsu no Naka",
-        "src": "https://cdn.myanimelist.net/images/manga/3/206562l.jpg"
-    },
-    {
-        "title": "Citrus",
-        "src": "https://cdn.myanimelist.net/images/manga/3/185905l.jpg"
-    },
-    {
-        "title": "Citrus+",
-        "src": "https://cdn.myanimelist.net/images/manga/2/244143l.jpg"
-    },
-    {
-        "title": "Girl Friends",
-        "src": "https://cdn.myanimelist.net/images/manga/3/262292l.jpg"
-    },
-    {
-        "title": "Rondallas",
-        "src": "https://proassetspdlcom.cdnstatics2.com/usuaris/libros/thumbs/83d2e954-c4a9-43ca-9dfa-a166b0f6d1fe/d_1200_1200/portada_planeta-manga-rondallas__202206091029.webp"
-    },
-    {
-        "title": "The Two of Them Are Pretty Much Like This",
-        "src": "https://cdn.myanimelist.net/images/manga/1/236200l.jpg"
-    },
-    {
-        "title": "The Sheep Princess In Wolf's Clothing",
-        "src": "https://cdn.myanimelist.net/images/manga/1/245341l.jpg"
-    },
-    {
-        "title": "Failed Princesses",
-        "src": "https://cdn.myanimelist.net/images/manga/3/217480l.jpg"
-    },
-    {
-        "title": "Did I Seriously Just Get Reincarnated as My Gag Character?!",
-        "src": "https://cdn.myanimelist.net/images/manga/1/238383l.jpg"
-    },
-    {
-        "title": "Sekai de Ichiban Oppai ga Suki!",
-        "src": "https://cdn.myanimelist.net/images/manga/3/207219l.jpg"
-    },
-    {
-        "title": "The Moon on a Rainy Night",
-        "src": "https://cdn.myanimelist.net/images/manga/3/253111l.jpg"
-    },
-    {
-        "title": "Doughnuts Under a Crescent Moon",
-        "src": "https://cdn.myanimelist.net/images/manga/4/243540l.jpg"
-    },
-    {
-        "title": "Snow Thaw & Love Letter",
-        "src": "https://cdn.myanimelist.net/images/manga/3/279048l.jpg"
-    },
-    {
-        "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana.",
-        "src": "https://cdn.myanimelist.net/images/manga/1/245171l.jpg"
-    },
-    {
-        "title": "Spoil Me Plzzz Hinamori-san!",
-        "src": "https://cdn.myanimelist.net/images/manga/1/257268l.jpg"
-    },
-    {
-        "title": "Futaribeya: A Room for Two",
-        "src": "https://cdn.myanimelist.net/images/manga/1/154836l.jpg"
-    },
-    {
-        "title": "My Angel Childhood Friend was a Gal When We Met Again",
-        "src": "https://static.bunnycdn.ru/i/cache/images/4/48/48269f9f74b18795255a7a0a908dce25.jpg"
-    },
-    {
-        "title": "There's No Freaking Way I'll be Your Lover! Unless...",
-        "src": "https://cdn.myanimelist.net/images/manga/2/236547l.jpg"
-    },
-    {
-        "title": "Making Progress on Yuri Before the Deadline",
-        "src": "https://cdn.myanimelist.net/images/manga/1/257681l.jpg"
-    },
-    {
-        "title": "Hokenshitsu wa Futarikiri",
-        "src": "https://cdn.myanimelist.net/images/manga/1/270170l.jpg"
-    },
-    {
-        "title": "The plain girl sitting next to me",
-        "src": "https://static.bunnycdn.ru/i/cache/images/2/2f/2f0135974be4d01005ea7cedef59d919.jpg"
-    },
-    {
-        "title": "Marry A Girl Friend.",
-        "src": "https://cdn.myanimelist.net/images/manga/2/250277l.jpg"
-    },
-    {
-        "title": "The Skirt Sings at the Landing",
-        "src": "https://cdn.myanimelist.net/images/manga/2/246831l.jpg"
-    },
-    {
-        "title": "Tonari no Seki ga Suki na Hito Fatta: Gakusei Yuri Anthology",
-        "src": "https://cdn.myanimelist.net/images/manga/3/286683l.jpg"
-    },
-    {
-        "title": "NTR: Netsuzou Trap",
-        "src": "https://cdn.myanimelist.net/images/manga/1/158981l.jpg"
-    },
-    {
-        "title": "Yuri Is My Job!",
-        "src": "https://cdn.myanimelist.net/images/manga/1/197358l.jpg"
-    },
-    {
-        "title": "Minato Shouji Coin Laundry",
-        "src": "https://cdn.myanimelist.net/images/manga/3/251548l.jpg"
-    },
-    {
-        "title": "Ichika, Bachika",
-        "src": "https://cdn.myanimelist.net/images/manga/1/225774l.jpg"
-    },
-    {
-        "title": "Old-Fashioned Cupcake",
-        "src": "https://cdn.myanimelist.net/images/manga/1/235766l.jpg"
-    },
-    {
-        "title": "Fragtime",
-        "src": "https://cdn.myanimelist.net/images/manga/3/118505l.jpg"
-    },
-    {
-        "title": "Sakura Trick",
-        "src": "https://cdn.myanimelist.net/images/manga/1/172310l.jpg"
-    },
-    {
-        "title": "Irresistible Person",
-        "src": "https://cdn.myanimelist.net/images/manga/3/240844l.jpg"
-    },
-    {
-        "title": "How to Love a Secret You Can't Tell Anyone About",
-        "src": "https://cdn.myanimelist.net/images/manga/1/244108l.jpg"
-    },
-    {
-        "title": "5 Seconds Before a Witch Falls in Love",
-        "src": "https://cdn.myanimelist.net/images/manga/2/235090l.jpg"
-    },
-    {
-        "title": "After Hours",
-        "src": "https://cdn.myanimelist.net/images/manga/2/165028l.jpg"
-    },
-    {
-        "title": "A Tropical Fish Yearns for Snow",
-        "src": "https://cdn.myanimelist.net/images/manga/2/248056l.jpg"
-    },
-    {
-        "title": "40 made ni Shitai 10 no Koto",
-        "src": "https://cdn.myanimelist.net/images/manga/1/283512l.jpg"
-    },
-    {
-        "title": "Sukeban to Tenkousei",
-        "src": "https://cdn.myanimelist.net/images/manga/1/257524l.jpg"
-    },
-    {
-        "title": "Cats and Sugar Bowls",
-        "src": "https://cdn.myanimelist.net/images/manga/2/256854l.jpg"
-    },
-    {
-        "title": "Otherside Picnic",
-        "src": "https://cdn.myanimelist.net/images/manga/2/211279l.jpg"
-    },
-    {
-        "title": "Oshi no Ko",
-        "src": "https://cdn.myanimelist.net/images/manga/3/233991l.jpg"
-    },
-    {
-        "title": "The Moon on a Rainy Night",
-        "src": "https://cdn.myanimelist.net/images/manga/3/253111l.jpg"
-    },
-    {
-        "title": "Living With My Brother's Wife",
-        "src": "https://cdn.myanimelist.net/images/manga/1/181118l.jpg"
-    },
-    {
-        "title": "Inugami-san to Nekoyama-san",
-        "src": "https://cdn.myanimelist.net/images/manga/3/90515l.jpg"
-    },
-    {
-        "title": "Yuri Hime Wildrose",
-        "src": "https://cdn.myanimelist.net/images/manga/1/4195l.jpg"
-    },
-    {
-        "title": "Harmony",
-        "src": "https://cdn.myanimelist.net/images/manga/3/174755l.jpg"
-    },
-    {
-        "title": "After School Étude",
-        "src": "https://arechimanga.com/wp-content/uploads/2023/11/After-School-Etude-vol.1-scaled.jpg"
-    },
-    {
-        "title": "I Love You So Much, I Hate You",
-        "src": "https://cdn.myanimelist.net/images/manga/3/224057l.jpg"
-    },
-    {
-        "title": "SCHOOL ZONE GIRLS",
-        "src": "https://cdn.myanimelist.net/images/manga/3/228686l.jpg"
-    },
-    {
-        "title": "How Do I Turn My Best Friend Into My Girlfriend?",
-        "src": "https://cdn.myanimelist.net/images/manga/1/280202l.jpg"
-    },
-    {
-        "title": "Kageki Shoujo!! Season Zero",
-        "src": "https://cdn.myanimelist.net/images/manga/2/149763l.jpg"
-    },
-    {
-        "title": "Kageki Shoujo!!",
-        "src": "https://cdn.myanimelist.net/images/manga/2/167045l.jpg"
-    },
-    {
-        "title": "Phantom Edge",
-        "src": "https://us-a.tapas.io/a/8d/aa4e0f76-bc38-4363-8ea6-06154f07a9cc.png"
-    },
-    {
-        "title": "Cowboy Bepop",
-        "src": "https://cdn.myanimelist.net/images/anime/1608/139122l.jpg"
-    },
-    {
-        "title": "Hazbin Hotel",
-        "src": "https://m.media-amazon.com/images/M/MV5BYzNkMzc5OTYtNDk2MS00NGI0LThjZGYtYjdmNWI4OTExZWFjXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"
-    },
-    {
-        "title": "Red vs. Blue",
-        "src": "https://pics.filmaffinity.com/red_vs_blue_the_blood_gulch_chronicles-810144784-large.jpg"
-    },
-    {
-        "title": "Record of Ragnarok",
-        "src": "https://cdn.myanimelist.net/images/manga/3/209957l.jpg"
-    },
-    {
-        "title": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
-        "src": "https://cdn.myanimelist.net/images/anime/1053/129004l.jpg"
-    },
-    {
-        "title": "The Amazing Digital Circus",
-        "src": "https://pics.filmaffinity.com/the_amazing_digital_circus-120462690-large.jpg"
-    },
-    {
-        "title": "Jellyfish Can't Swim in the Night",
-        "src": "https://cdn.myanimelist.net/images/manga/2/302616l.jpg"
-    },
-    {
-        "name": "La química del amor",
-        "author": "Ali Hazelwood"
-    },
-    {
-        "name": "La hipótesis del amor",
-        "author": "Ali Hazelwood"
-    },
-    {
-        "name": "La búsqueda del cliché perfecto",
-        "author": "Michelle Durán"
-    },
-    {
-        "name": "Y el mundo no dejaba de girar",
-        "author": "Susana Herrero"
-    },
-    {
-        "name": "Empire of Sin",
-        "author": "Rina Kent"
-    },
-    {
-        "name": "Novia",
-        "author": "Ali Hazelwood"
-    },
-    {
-        "name": "Kaoru Hana wa Rin to Saku",
-        "author": "Saka Mikami"
-    },
-    {
-        "name": "Ao no Hako",
-        "author": "Kouji Miura"
+        "name": "Haikyuu!!",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/7/76014l.jpg"
     },
     {
         "name": "Hibike Euphonium",
-        "genre": "Slice of life",
-        "category": "Series",
-        "subcategory": "Anime"
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/6/72445l.jpg"
+    },
+    {
+        "name": "Kakegurui",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/3/86578l.jpg"
+    },
+    {
+        "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1895/119503l.jpg"
+    },
+    {
+        "name": "Jujutsu Kaisen",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
+    },
+    {
+        "name": "Sora yori mo Tooi Basho",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/12/89878l.jpg"
+    },
+    {
+        "name": "Kobayashi-san Chi no Maid Dragon",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/5/85434l.jpg"
+    },
+    {
+        "name": "Jojo's Bizarre Adventure",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/3/40409l.jpg"
+    },
+    {
+        "name": "Wonder Egg Priority",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1079/110751l.jpg"
+    },
+    {
+        "name": "Anohana",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1875/105235l.jpg"
+    },
+    {
+        "name": "Yuru Camp",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/4/89877l.jpg"
+    },
+    {
+        "name": "Majo no Tabitabi",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1802/108501l.jpg"
+    },
+    {
+        "name": "Adachi to Shimamura",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/manga/2/232193l.jpg"
+    },
+    {
+        "name": "Komi-san wa, Komyushou Desu",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1899/117237l.jpg"
+    },
+    {
+        "name": "Bloom Into You",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/manga/1/232311l.jpg"
+    },
+    {
+        "name": "Bloom Into You (Light Novel)",
+        "author": "",
+        "genre": "",
+        "category": "Book",
+        "image": "https://cdn.myanimelist.net/images/manga/3/222780l.jpg"
+    },
+    {
+        "name": "Science Fell in Love, So I Tried to Prove It",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1432/103533l.jpg"
+    },
+    {
+        "name": "Spy x Family",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1823/119156l.jpg"
+    },
+    {
+        "name": "Jibaku Sh\u014dnen Hanako-kun",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1700/104788l.jpg"
+    },
+    {
+        "name": "Link Click",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg"
+    },
+    {
+        "name": "Classroom of the Elite",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/7/86829l.jpg"
+    },
+    {
+        "name": "Non Non Biyori",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/2/51581l.jpg"
+    },
+    {
+        "name": "H\u014dseki no Kuni",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/3/88293l.jpg"
+    },
+    {
+        "name": "RWBY",
+        "author": "",
+        "genre": "",
+        "category": "Animated Series",
+        "image": "https://pics.filmaffinity.com/rwby-751014904-large.jpg"
+    },
+    {
+        "name": "RWBY: Ice Queendom",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1356/121832l.jpg"
+    },
+    {
+        "name": "Lycoris Recoil",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1392/124401l.jpg"
+    },
+    {
+        "name": "Oregairu",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1786/120117l.jpg"
+    },
+    {
+        "name": "Bocchi the Rock!",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1448/127956l.jpg"
+    },
+    {
+        "name": "Beyond the Boundary",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/3/85468l.jpg"
+    },
+    {
+        "name": "Mobile Suit Gundam: The Witch from Mercury",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1440/127624l.jpg"
+    },
+    {
+        "name": "Kimi no Na wa.",
+        "author": "",
+        "genre": "",
+        "category": "Anime Movie",
+        "image": "https://cdn.myanimelist.net/images/anime/9/77484l.jpg"
+    },
+    {
+        "name": "Weathering with You",
+        "author": "",
+        "genre": "",
+        "category": "Anime Movie",
+        "image": "https://cdn.myanimelist.net/images/anime/1880/101146l.jpg"
+    },
+    {
+        "name": "I Want to Eat Your Pancreas",
+        "author": "",
+        "genre": "",
+        "category": "Anime Movie",
+        "image": "https://cdn.myanimelist.net/images/anime/11/90070l.jpg"
+    },
+    {
+        "name": "Bubble",
+        "author": "",
+        "genre": "",
+        "category": "Anime Movie",
+        "image": "https://cdn.myanimelist.net/images/anime/1011/121152l.jpg"
+    },
+    {
+        "name": "Kase-san Shir\u012bzu",
+        "author": "",
+        "genre": "",
+        "category": "Anime Movie",
+        "image": "https://cdn.myanimelist.net/images/anime/1578/94205l.jpg"
+    },
+    {
+        "name": "Asagao to Kase-san / Yamada to Kase-san",
+        "author": "",
+        "genre": "",
+        "category": "Manga",
+        "image": "https://cdn.myanimelist.net/images/manga/3/192176l.jpg"
+    },
+    {
+        "name": "Suzume no Tojimari",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/anime/1598/128450l.jpg"
+    },
+    {
+        "name": "A Silent Voice",
+        "author": "",
+        "genre": "",
+        "category": "Anime Movie",
+        "image": "https://cdn.myanimelist.net/images/anime/1347/134168l.jpg"
+    },
+    {
+        "name": "Arcane",
+        "author": "",
+        "genre": "",
+        "category": "Animated Series",
+        "image": "https://pics.filmaffinity.com/arcane_league_of_legends-624235408-large.jpg"
+    },
+    {
+        "name": "Steven Universe",
+        "author": "",
+        "genre": "",
+        "category": "Animated Series",
+        "image": "https://pics.filmaffinity.com/steven_universe-632270359-large.jpg"
+    },
+    {
+        "name": "Persona 5: The Animation",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1230/95768l.jpg"
+    },
+    {
+        "name": "Persona 5",
+        "author": "",
+        "genre": "",
+        "category": "Manga",
+        "image": "https://cdn.myanimelist.net/images/manga/1/272390l.jpg"
+    },
+    {
+        "name": "Adam by Eve: A Live in Animation",
+        "author": "",
+        "genre": "",
+        "category": "Live Action",
+        "image": "https://pics.filmaffinity.com/adam_by_eve_a_live_in_animation-892242764-large.jpg"
+    },
+    {
+        "name": "The Super Mario Bros. Movie",
+        "author": "",
+        "genre": "",
+        "category": "Animated Movie",
+        "image": "https://pics.filmaffinity.com/the_super_mario_bros_movie-521125124-large.jpg"
+    },
+    {
+        "name": "Alter Ego",
+        "author": "",
+        "genre": "",
+        "category": "Manga",
+        "image": "https://proassetspdlcom.cdnstatics2.com/usuaris/libros/thumbs/ac114741-9438-4561-a749-746ebf448762/d_1200_1200/portada_planeta-manga-alter-ego__202011171333.webp"
+    },
+    {
+        "name": "Noel y June",
+        "author": "",
+        "genre": "",
+        "category": "Manga",
+        "image": "https://pbs.twimg.com/media/Fj9mC9BXgAA2_3U?format=jpg&name=4096x4096"
+    },
+    {
+        "name": "Sirius",
+        "author": "",
+        "genre": "",
+        "category": "Manga",
+        "image": "https://proassetspdlcom.cdnstatics2.com/usuaris/libros/thumbs/32aa5e1c-6d4c-498a-b0f9-cf0340fc8d85/d_360_620/portada_planeta-manga-sirius_ana-c-sanchez_202201121309.webp"
+    },
+    {
+        "name": "Limbo",
+        "author": "",
+        "genre": "",
+        "category": "Manga",
+        "image": "https://proassetspdlcom.cdnstatics2.com/usuaris/libros/thumbs/4403a9cf-a87f-4605-a57f-3aca85955713/d_1200_1200/portada_planeta-manga-limbo-n-01__202212220954.webp"
+    },
+    {
+        "name": "Déjame que te cuente...",
+        "author": "",
+        "genre": "",
+        "category": "Book",
+        "image": "https://m.media-amazon.com/images/I/81mvurKh0YL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "name": "Mirai Nikki",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/1059/128279l.jpg"
+    },
+    {
+        "name": "Another",
+        "author": "",
+        "genre": "",
+        "category": "Anime Series",
+        "image": "https://cdn.myanimelist.net/images/anime/4/75509l.jpg"
+    },
+    {
+        "name": "Breaking Bad",
+        "author": "",
+        "genre": "",
+        "category": "TV Series",
+        "image": "https://pics.filmaffinity.com/breaking_bad-504442815-large.jpg"
+    },
+    {
+        "name": "Chilling Adventures of Sabrina",
+        "author": "",
+        "genre": "",
+        "category": "TV Series",
+        "image": "https://pics.filmaffinity.com/chilling_adventures_of_sabrina-595796535-large.jpg"
+    },
+    {
+        "name": "The Owl House",
+        "author": "",
+        "genre": "",
+        "category": "Animated Series",
+        "image": "https://pics.filmaffinity.com/the_owl_house-115402703-large.jpg"
+    },
+    {
+        "name": "You",
+        "author": "",
+        "genre": "",
+        "category": "TV Series",
+        "image": "https://pics.filmaffinity.com/you-795614651-large.jpg"
+    },
+    {
+        "name": "Cunk on Earth",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://pics.filmaffinity.com/cunk_on_earth-680072871-large.jpg"
+    },
+    {
+        "name": "Cyberpunk: Edgerunners",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg"
+    },
+    {
+        "name": "Given",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/172497l.jpg"
+    },
+    {
+        "name": "Sasaki to Miyano",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/187122l.jpg"
+    },
+    {
+        "name": "I'm in Love with the Villainess",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/238641l.jpg"
+    },
+    {
+        "name": "Whisper Me a Love Song",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/219489l.jpg"
+    },
+    {
+        "name": "I Married My Best Friend To Shut My Parents Up",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/212825l.jpg"
+    },
+    {
+        "name": "Lonely Girl ni Sakaraenai",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/246835l.jpg"
+    },
+    {
+        "name": "Alcohol Yuri Anthology: Strong!",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/241920l.jpg"
+    },
+    {
+        "name": "Throw Away the Suit Together",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/257275l.jpg"
+    },
+    {
+        "name": "Hyouka",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/anime/1477/103375l.jpg"
+    },
+    {
+        "name": "Why is my crush so hard on me?",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/d9/d99276259d041b66b6a2bd8c1c7b3556.jpg"
+    },
+    {
+        "name": "A Hundred Scenes of Girls' Love",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/3b/3b9e6bbaf34fc6a0a09bf15a984149db.jpg"
+    },
+    {
+        "name": "Syrup: A Yuri Anthology",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/247345l.jpg"
+    },
+    {
+        "name": "The Girl Doesn't Know Her Heart.",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/246368l.jpg"
+    },
+    {
+        "name": "Whispered Words",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/217658l.jpg"
+    },
+    {
+        "name": "My Wish Is to Fall in Love Until You Die.",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/215753l.jpg"
+    },
+    {
+        "name": "I Can't Believe I Slept With You!",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/226062l.jpg"
+    },
+    {
+        "name": "The Summer You Were There",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/239675l.jpg"
+    },
+    {
+        "name": "Kimi wa Natsu no Naka",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/206562l.jpg"
+    },
+    {
+        "name": "Citrus",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/185905l.jpg"
+    },
+    {
+        "name": "Citrus+",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/244143l.jpg"
+    },
+    {
+        "name": "Girl Friends",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/262292l.jpg"
+    },
+    {
+        "name": "Rondallas",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://proassetspdlcom.cdnstatics2.com/usuaris/libros/thumbs/83d2e954-c4a9-43ca-9dfa-a166b0f6d1fe/d_1200_1200/portada_planeta-manga-rondallas__202206091029.webp"
+    },
+    {
+        "name": "The Two of Them Are Pretty Much Like This",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/236200l.jpg"
+    },
+    {
+        "name": "The Sheep Princess In Wolf's Clothing",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/245341l.jpg"
+    },
+    {
+        "name": "Failed Princesses",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/217480l.jpg"
+    },
+    {
+        "name": "Did I Seriously Just Get Reincarnated as My Gag Character?!",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/238383l.jpg"
+    },
+    {
+        "name": "Sekai de Ichiban Oppai ga Suki!",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/207219l.jpg"
+    },
+    {
+        "name": "The Moon on a Rainy Night",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/253111l.jpg"
+    },
+    {
+        "name": "Doughnuts Under a Crescent Moon",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/4/243540l.jpg"
+    },
+    {
+        "name": "Snow Thaw & Love Letter",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/279048l.jpg"
+    },
+    {
+        "name": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana.",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/245171l.jpg"
+    },
+    {
+        "name": "Spoil Me Plzzz Hinamori-san!",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/257268l.jpg"
+    },
+    {
+        "name": "Futaribeya: A Room for Two",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/154836l.jpg"
+    },
+    {
+        "name": "My Angel Childhood Friend was a Gal When We Met Again",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/48/48269f9f74b18795255a7a0a908dce25.jpg"
+    },
+    {
+        "name": "There's No Freaking Way I'll be Your Lover! Unless...",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/236547l.jpg"
+    },
+    {
+        "name": "Making Progress on Yuri Before the Deadline",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/257681l.jpg"
+    },
+    {
+        "name": "Hokenshitsu wa Futarikiri",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/270170l.jpg"
+    },
+    {
+        "name": "The plain girl sitting next to me",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/2f/2f0135974be4d01005ea7cedef59d919.jpg"
+    },
+    {
+        "name": "Marry A Girl Friend.",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/250277l.jpg"
+    },
+    {
+        "name": "The Skirt Sings at the Landing",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/246831l.jpg"
+    },
+    {
+        "name": "Tonari no Seki ga Suki na Hito Fatta: Gakusei Yuri Anthology",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/286683l.jpg"
+    },
+    {
+        "name": "NTR: Netsuzou Trap",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/158981l.jpg"
+    },
+    {
+        "name": "Yuri Is My Job!",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/197358l.jpg"
+    },
+    {
+        "name": "Minato Shouji Coin Laundry",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/251548l.jpg"
+    },
+    {
+        "name": "Ichika, Bachika",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/225774l.jpg"
+    },
+    {
+        "name": "Old-Fashioned Cupcake",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/235766l.jpg"
+    },
+    {
+        "name": "Fragtime",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/118505l.jpg"
+    },
+    {
+        "name": "Sakura Trick",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/172310l.jpg"
+    },
+    {
+        "name": "Irresistible Person",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/240844l.jpg"
+    },
+    {
+        "name": "How to Love a Secret You Can't Tell Anyone About",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/244108l.jpg"
+    },
+    {
+        "name": "5 Seconds Before a Witch Falls in Love",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/235090l.jpg"
+    },
+    {
+        "name": "After Hours",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/165028l.jpg"
+    },
+    {
+        "name": "A Tropical Fish Yearns for Snow",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/248056l.jpg"
+    },
+    {
+        "name": "40 made ni Shitai 10 no Koto",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/283512l.jpg"
+    },
+    {
+        "name": "Sukeban to Tenkousei",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/257524l.jpg"
+    },
+    {
+        "name": "Cats and Sugar Bowls",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/256854l.jpg"
+    },
+    {
+        "name": "Otherside Picnic",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/211279l.jpg"
+    },
+    {
+        "name": "Oshi no Ko",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/233991l.jpg"
+    },
+    {
+        "name": "The Moon on a Rainy Night",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/253111l.jpg"
+    },
+    {
+        "name": "Living With My Brother's Wife",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/181118l.jpg"
+    },
+    {
+        "name": "Inugami-san to Nekoyama-san",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/90515l.jpg"
+    },
+    {
+        "name": "Yuri Hime Wildrose",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/4195l.jpg"
+    },
+    {
+        "name": "Harmony",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/174755l.jpg"
+    },
+    {
+        "name": "After School Étude",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://arechimanga.com/wp-content/uploads/2023/11/After-School-Etude-vol.1-scaled.jpg"
+    },
+    {
+        "name": "I Love You So Much, I Hate You",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/224057l.jpg"
+    },
+    {
+        "name": "SCHOOL ZONE GIRLS",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/228686l.jpg"
+    },
+    {
+        "name": "How Do I Turn My Best Friend Into My Girlfriend?",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/1/280202l.jpg"
+    },
+    {
+        "name": "Kageki Shoujo!! Season Zero",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/149763l.jpg"
+    },
+    {
+        "name": "Kageki Shoujo!!",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/2/167045l.jpg"
+    },
+    {
+        "name": "Phantom Edge",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://us-a.tapas.io/a/8d/aa4e0f76-bc38-4363-8ea6-06154f07a9cc.png"
+    },
+    {
+        "name": "Cowboy Bepop",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/anime/1608/139122l.jpg"
+    },
+    {
+        "name": "Hazbin Hotel",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzNkMzc5OTYtNDk2MS00NGI0LThjZGYtYjdmNWI4OTExZWFjXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"
+    },
+    {
+        "name": "Red vs. Blue",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://pics.filmaffinity.com/red_vs_blue_the_blood_gulch_chronicles-810144784-large.jpg"
+    },
+    {
+        "name": "Record of Ragnarok",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/manga/3/209957l.jpg"
+    },
+    {
+        "name": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+        "author": "",
+        "genre": "",
+        "category": "",
+        "image": "https://cdn.myanimelist.net/images/anime/1053/129004l.jpg"
+    },
+    {
+        "name": "The Amazing Digital Circus",
+        "author": "",
+        "genre": "",
+        "category": "Animated Series",
+        "image": "https://pics.filmaffinity.com/the_amazing_digital_circus-120462690-large.jpg"
+    },
+    {
+        "name": "Jellyfish Can't Swim in the Night",
+        "author": "",
+        "genre": "",
+        "category": "Manga",
+        "image": "https://cdn.myanimelist.net/images/manga/2/302616l.jpg"
+    },
+    {
+        "name": "La química del amor",
+        "author": "Ali Hazelwood",
+        "genre": "",
+        "category": "Book",
+        "image": ""
+    },
+    {
+        "name": "La hipótesis del amor",
+        "author": "Ali Hazelwood",
+        "genre": "",
+        "category": "Book",
+        "image": ""
+    },
+    {
+        "name": "La búsqueda del cliché perfecto",
+        "author": "Michelle Durán",
+        "genre": "",
+        "category": "Book",
+        "image": ""
+    },
+    {
+        "name": "Y el mundo no dejaba de girar",
+        "author": "Susana Herrero",
+        "genre": "",
+        "category": "Book",
+        "image": ""
+    },
+    {
+        "name": "Empire of Sin",
+        "author": "Rina Kent",
+        "genre": "",
+        "category": "Book",
+        "image": ""
+    },
+    {
+        "name": "Novia",
+        "author": "Ali Hazelwood",
+        "genre": "",
+        "category": "Book",
+        "image": ""
+    },
+    {
+        "name": "Kaoru Hana wa Rin to Saku",
+        "author": "Saka Mikami",
+        "genre": "",
+        "category": "Manga",
+        "image": ""
+    },
+    {
+        "name": "Ao no Hako",
+        "author": "Kouji Miura",
+        "genre": "",
+        "category": "Manga",
+        "image": ""
+    },
+    {
+        "name": "2.5 Dimensional Seduction",
+        "author": "",
+        "genre": "",
+        "category": "Manga",
+        "image": ""
     }
 ]

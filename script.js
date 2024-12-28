@@ -1,38 +1,29 @@
-fetch("./data.json")
-    .then(response => response.json())
-    .then(data => {
-        let table = document.getElementById("results");
-        data.forEach(item => {
-            let values = [item.name, item.author, item.genre, item.category, item.subcategory, item.src];
-            let row = table.insertRow();
-            values.forEach(value => {
-                let cell = row.insertCell();
-                cell.innerHTML = value || null;
-                const match = cell.innerHTML.match(/https?:\/\/[^\s]+/)
-                if (match) {
-                    const img = document.createElement("img");
-                    img.src = match[0];
-                    cell.innerHTML = "";
-                    cell.appendChild(img);
-                }
-            });
+let originalData = null;
+fetch("./data.json").then(response => response.json()).then(data => filter(originalData = data)).catch(error => console.error(error));
+
+function populate(data) {
+    const table = document.getElementById("results");
+    const header = table.rows[0];
+    table.innerHTML = "";
+    table.appendChild(header);
+    data.forEach(record => {
+        const row = table.insertRow();
+        record = [record.name, record.author, record.category, record.genre, record.image];
+        record.forEach(field => {
+            const cell = row.insertCell();
+            cell.innerHTML = field || "";
+            const URLMatch = cell.innerHTML.match(/https?:\/\/[^\s]+/);
+            if (URLMatch) {
+                const img = document.createElement("img");
+                img.src = URLMatch[0];
+                cell.innerHTML = "";
+                cell.appendChild(img);
+            }
         });
-    })
-    .catch(error => console.error(error));
-
-const table = document.getElementById("results");
-    const rows = Array.from(table.querySelectorAll("tbody tr"));
-    const originalData = rows.map(row => 
-        Array.from(row.cells).map(cell => cell.textContent)
-    );
-    document.getElementById("filter").addEventListener("input", (event) => {
-        const query = event.target.value.toLowerCase();
-        const filteredData = originalData.filter(row => 
-            row[0].toLowerCase().includes(query)
-        );
-
-        const tbody = table.querySelector("tbody");
-        tbody.innerHTML = filteredData.map(row =>
-            `<tr>${row.map(cell => `<td>${cell}</td>`).join("")}</tr>`
-        ).join("");
     });
+}
+
+function filter() {
+    const query = document.getElementById("filter").value;
+    populate(query ? originalData.filter(record => record.name.toLowerCase().includes(query.toLowerCase())) : originalData);
+}

@@ -19,11 +19,17 @@ input {
     width: 60%;
 }
 
+input:focus {
+    outline: none;
+}
+
 table, th, td {
     background: white;
-    border: 2px solid black collapse;
+    border: 2px solid black;
+    border-collapse: collapse;
     margin-left: auto;
     margin-right: auto;
+    padding: 10px;
 }
 
 img {

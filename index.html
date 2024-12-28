@@ -1,24 +1,23 @@
 <!DOCTYPE html>
 
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Kare's Library</title>
-        <link rel="icon" href="./icon.ico">
-        <link rel="stylesheet" href="styles.css" type="text/css">
-    </head>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kare's Library</title>
+    <link rel="icon" href="./icon.ico">
+    <link rel="stylesheet" href="styles.css" type="text/css">
+</head>
 
-    <body>
-        <input type="search" id="filter" onkeyup="filter()" placeholder="Filter by..." autofocus>
-        <table id="results">
-            <th>Name</th>
-            <th>Author</th>
-            <th>Genre</th>
-            <th>Category</th>
-            <th>Subcategory</th>
-            <th>Image</th>
-        </table>
-        <script src="script.js"></script>
-    </body>
+<body>
+<label for="filter"></label><input type="search" id="filter" oninput="filter()" placeholder="Filter by name..." autofocus>
+<table id="results">
+    <th>Name</th>
+    <th>Author</th>
+    <th>Category</th>
+    <th>Genre</th>
+    <th>Cover</th>
+</table>
+<script src="script.js"></script>
+</body>
 </html>
