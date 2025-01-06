@@ -8,17 +8,18 @@ function populate(data) {
     table.appendChild(header);
     data.forEach(record => {
         const row = table.insertRow();
-        record = [record.name, record.author, record.category, record.genre, record.cover];
+        record = [record.name, record.author, record.category, record.genre];
         record.forEach(field => {
             const cell = row.insertCell();
-            cell.innerHTML = field || "";
-            const URLMatch = cell.innerHTML.match(/https?:\/\/[^\s]+/);
+            cell.innerHTML = field === false ? false : field || "";
+            // The block commented below this used to be used to substitute each URL in the JSON file for the corresponding cover
+            /* const URLMatch = cell.innerHTML.match(/https?:\/\/[^\s]+/);
             if (URLMatch) {
                 const img = document.createElement("img");
                 img.src = URLMatch[0];
                 cell.innerHTML = "";
                 cell.appendChild(img);
-            }
+            } */
         });
     });
 }

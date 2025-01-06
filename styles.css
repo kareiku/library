@@ -16,7 +16,7 @@ input {
     margin-right: auto;
     margin-bottom: 12px;
     padding: 12px 20px 12px 20px;
-    width: 65%;
+    width: 60%;
 }
 
 input:focus {
@@ -30,7 +30,7 @@ table {
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
-    width: 80%;
+    width: 65%;
 }
 
 th {
@@ -45,9 +45,4 @@ td {
     text-align: center;
     padding: 5px;
     vertical-align: middle;
-}
-
-img {
-    max-height: 150px;
-    max-width: 150px
 }
