@@ -1,7 +1,7 @@
 let originalData = null;
-fetch("./data.json").then(response => response.json()).then(data => filter(originalData = data)).catch(error => console.error(error));
+fetch("./data.json").then(response => response.json()).then(data => filterTable(originalData = data)).catch(error => console.error(error));
 
-function populate(data) {
+function populateTable(data) {
     const table = document.getElementById("results");
     const header = table.rows[0];
     table.innerHTML = "";
@@ -24,7 +24,17 @@ function populate(data) {
     });
 }
 
-function filter() {
+function filterTable() {
+    const column = document.getElementById("selector").value;
     const query = document.getElementById("filter").value;
-    populate(query ? originalData.filter(record => record.name.toLowerCase().includes(query.toLowerCase())) : originalData);
+    populateTable(query ? originalData.filter(record => selectColumn(column, record).toLowerCase().includes(query.toLowerCase())) : originalData);
+}
+
+function selectColumn(column, record) {
+    return {
+        "name": record.name,
+        "author": record.author,
+        "category": record.category,
+        "genre": record.genre
+    }[column] || "";
 }

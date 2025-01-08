@@ -10,7 +10,14 @@
 </head>
 
 <body>
-<label for="filter"></label><input type="search" id="filter" oninput="filter()" placeholder="Filter by name..." autofocus>
+<label for="selector"></label>
+<select id="selector">
+    <option value="name">Name</option>
+    <option value="author">Author</option>
+    <option value="category">Category</option>
+    <option value="genre">Genre</option>
+</select>
+<label for="filter"></label><input type="search" id="filter" oninput="filterTable()" placeholder="Filter by name..." autofocus>
 <table id="results">
     <tr>
         <th>Name</th>
