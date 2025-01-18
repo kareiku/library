@@ -363,7 +363,9 @@
         "name": "Phantom Edge",
         "author": "Ana C. Sánzhez (AnaKris)",
         "genre": "Dark fantasy",
-        "category": "Manga"
+        "category": "Manga",
+        "authorURL": "https://tapas.io/AnaKris",
+        "seriesURL": "https://tapas.io/series/Phantom-Edge"
     },
     {
         "name": "Déjame que te cuente...",
