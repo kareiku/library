@@ -761,13 +761,13 @@
         "name": "Otherside Picnic",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga"
     },
     {
         "name": "Oshi no Ko",
         "author": "Aka Akasaka",
-        "genre": null,
-        "category": null
+        "genre": "Seinen",
+        "category": "Manga"
     },
     {
         "name": "The Moon on a Rainy Night",
@@ -827,13 +827,13 @@
         "name": "Kageki Shoujo!! Season Zero",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga"
     },
     {
         "name": "Kageki Shoujo!!",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga"
     },
     {
         "name": "Cowboy Bepop",
@@ -935,12 +935,12 @@
         "name": "Frieren: Beyond Journey's End",
         "author": null,
         "genre": "Shonen, Fantasy",
-        "category": "Anime"
+        "category": "Anime Series"
     },
     {
         "name": "The Apothecary Diaries",
         "author": "Natsu Hyuuga",
         "genre": "Drama, Mystery, Romance",
-        "category": "Anime"
+        "category": "Anime Series"
     }
 ]
