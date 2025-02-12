@@ -930,5 +930,17 @@
         "author": null,
         "genre": null,
         "category": "Manga"
+    },
+    {
+        "name": "Frieren: Beyond Journey's End",
+        "author": null,
+        "genre": "Shonen, Fantasy",
+        "category": "Anime"
+    },
+    {
+        "name": "The Apothecary Diaries",
+        "author": "Natsu Hyuuga",
+        "genre": "Drama, Mystery, Romance",
+        "category": "Anime"
     }
 ]
