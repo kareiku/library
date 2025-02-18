@@ -8,7 +8,7 @@ function populateTable(data) {
     table.appendChild(header);
     data.forEach(record => {
         const row = table.insertRow();
-        record = [record.name, record.author, record.category, record.genre];
+        record = [record.name, record.author, record.category, record.genre, record.progress];
         record.forEach(field => {
             const cell = row.insertCell();
             cell.innerHTML = field === false ? false : field || "";

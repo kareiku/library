@@ -3,367 +3,435 @@
         "name": "Assassination Classroom",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Sword Art Online",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "No Game No Life",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Death Note",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Shingeki no Kyojin",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Re:Zero",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Blue Exorcist",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Fairy Tail",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Little Witch Academia",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Black Clover",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "K-On!",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Haikyuu!!",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Hibike Euphonium",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "3rd season not seen"
     },
     {
         "name": "Kakegurui",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Jujutsu Kaisen",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Sora yori mo Tooi Basho",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Kobayashi-san Chi no Maid Dragon",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Jojo's Bizarre Adventure",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Wonder Egg Priority",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Anohana",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Yuru Camp",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Majo no Tabitabi",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Adachi to Shimamura",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Manga",
+        "progress": "Read"
     },
     {
         "name": "Komi-san wa, Komyushou Desu",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Bloom Into You",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
-        "name": "Bloom Into You (Light Novel)",
+        "name": "Bloom Into You",
         "author": null,
         "genre": null,
-        "category": "Book"
+        "category": "Manga",
+        "progress": "Read"
+    },
+    {
+        "name": "Bloom Into You",
+        "author": null,
+        "genre": null,
+        "category": "Light Novel",
+        "progress": "Not read"
     },
     {
         "name": "Science Fell in Love, So I Tried to Prove It",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Spy x Family",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Jibaku Sh\u014dnen Hanako-kun",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Link Click",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Classroom of the Elite",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Non Non Biyori",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "H\u014dseki no Kuni",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "RWBY",
         "author": null,
         "genre": null,
-        "category": "Animated Series"
+        "category": "Animated Series",
+        "progress": "Seen"
     },
     {
         "name": "RWBY: Ice Queendom",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Lycoris Recoil",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Oregairu",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Bocchi the Rock!",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Beyond the Boundary",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Mobile Suit Gundam: The Witch from Mercury",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Kimi no Na wa.",
         "author": null,
         "genre": null,
-        "category": "Anime Movie"
+        "category": "Anime Movie",
+        "progress": "Seen"
     },
     {
         "name": "Weathering with You",
         "author": null,
         "genre": null,
-        "category": "Anime Movie"
+        "category": "Anime Movie",
+        "progress": "Seen"
     },
     {
         "name": "I Want to Eat Your Pancreas",
         "author": null,
         "genre": null,
-        "category": "Anime Movie"
+        "category": "Anime Movie",
+        "progress": "Seen"
     },
     {
         "name": "Bubble",
         "author": null,
         "genre": null,
-        "category": "Anime Movie"
+        "category": "Anime Movie",
+        "progress": "Seen"
     },
     {
         "name": "Kase-san Shir\u012bzu",
         "author": null,
         "genre": null,
-        "category": "Anime Movie"
+        "category": "Anime Movie",
+        "progress": "Seen"
     },
     {
         "name": "Asagao to Kase-san / Yamada to Kase-san",
         "author": null,
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Read"
     },
     {
         "name": "Suzume no Tojimari",
         "author": null,
         "genre": null,
-        "category": null
+        "category": null,
+        "progress": "Not seen"
     },
     {
         "name": "A Silent Voice",
         "author": null,
         "genre": null,
-        "category": "Anime Movie"
+        "category": "Anime Movie",
+        "progress": "Not seen"
     },
     {
         "name": "Arcane",
         "author": null,
         "genre": null,
-        "category": "Animated Series"
+        "category": "Animated Series",
+        "progress": "Seen"
     },
     {
         "name": "Steven Universe",
         "author": null,
         "genre": null,
-        "category": "Animated Series"
+        "category": "Animated Series",
+        "progress": "Seen"
     },
     {
         "name": "Persona 5: The Animation",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Seen"
     },
     {
         "name": "Persona 5",
         "author": null,
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Adam by Eve: A Live in Animation",
         "author": null,
         "genre": null,
-        "category": "Live Action"
+        "category": "Live Action",
+        "progress": "Seen"
     },
     {
         "name": "The Super Mario Bros. Movie",
         "author": null,
         "genre": null,
-        "category": "Animated Movie"
+        "category": "Animated Movie",
+        "progress": "Seen"
     },
     {
         "name": "Alter Ego",
         "author": "Ana C. Sánzhez",
         "genre": "Yuri",
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Read"
     },
     {
         "name": "Noel y June",
         "author": "Ana C. Sánzhez",
         "genre": "Yuri",
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Sirius",
         "author": "Ana C. Sánzhez",
         "genre": "Yuri",
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Read"
     },
     {
         "name": "Limbo",
         "author": "Ana C. Sánzhez",
         "genre": "Yuri",
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Read"
     },
     {
         "name": "Cross Heart / Melody of Sorrow",
         "author": "Ana C. Sánzhez (AnaKris)",
         "genre": "Yuri",
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Read"
     },
     {
         "name": "Phantom Edge",
         "author": "Ana C. Sánzhez (AnaKris)",
         "genre": "Dark fantasy",
         "category": "Manga",
+        "progress": "Read",
         "authorURL": "https://tapas.io/AnaKris",
         "seriesURL": "https://tapas.io/series/Phantom-Edge"
     },
@@ -371,151 +439,176 @@
         "name": "Déjame que te cuente...",
         "author": null,
         "genre": null,
-        "category": "Book"
+        "category": "Book",
+        "progress": "Read"
     },
     {
         "name": "Mirai Nikki",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Another",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Breaking Bad",
         "author": null,
         "genre": null,
-        "category": "TV Series"
+        "category": "TV Series",
+        "progress": "Not seen"
     },
     {
         "name": "Chilling Adventures of Sabrina",
         "author": null,
         "genre": null,
-        "category": "TV Series"
+        "category": "TV Series",
+        "progress": "Not seen"
     },
     {
         "name": "The Owl House",
         "author": null,
         "genre": null,
-        "category": "Animated Series"
+        "category": "Animated Series",
+        "progress": "Not seen"
     },
     {
         "name": "You",
         "author": null,
         "genre": null,
-        "category": "TV Series"
+        "category": "TV Series",
+        "progress": "Not seen"
     },
     {
         "name": "Cunk on Earth",
         "author": null,
         "genre": "Mockumentary",
-        "category": "Documentary"
+        "category": "Documentary",
+        "progress": "Not seen"
     },
     {
         "name": "Cyberpunk: Edgerunners",
         "author": null,
         "genre": null,
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Given",
         "author": null,
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Sasaki to Miyano",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "I'm in Love with the Villainess",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Read"
     },
     {
         "name": "Whisper Me a Love Song",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Read"
     },
     {
         "name": "I Married My Best Friend To Shut My Parents Up",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Lonely Girl ni Sakaraenai",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Alcohol Yuri Anthology: Strong!",
         "author": null,
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Read?"
     },
     {
         "name": "Throw Away the Suit Together",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Hyouka",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Why is my crush so hard on me?",
         "author": null,
         "genre": null,
-        "category": "Doujinshi"
+        "category": "Doujinshi",
+        "progress": "Read"
     },
     {
         "name": "A Hundred Scenes of Girls' Love",
         "author": null,
         "genre": null,
-        "category": "Doujinshi"
+        "category": "Doujinshi",
+        "progress": "Read"
     },
     {
         "name": "Syrup: A Yuri Anthology",
         "author": null,
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Read?"
     },
     {
         "name": "The Girl Doesn't Know Her Heart.",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Whispered Words",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "My Wish Is to Fall in Love Until You Die.",
         "author": null,
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "I Can't Believe I Slept With You!",
         "author": null,
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "The Summer You Were There",
@@ -527,420 +620,504 @@
         "name": "Kimi wa Natsu no Naka",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Citrus",
         "author": "Saburouta",
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Read"
     },
     {
         "name": "Citrus+",
         "author": "Saburouta",
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Read"
     },
     {
         "name": "Girl Friends",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Rondallas",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "The Two of Them Are Pretty Much Like This",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Read"
     },
     {
         "name": "The Sheep Princess In Wolf's Clothing",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Failed Princesses",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Did I Seriously Just Get Reincarnated as My Gag Character?!",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Sekai de Ichiban Oppai ga Suki!",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "The Moon on a Rainy Night",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Doughnuts Under a Crescent Moon",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Snow Thaw & Love Letter",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana.",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Spoil Me Plzzz Hinamori-san!",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Futaribeya: A Room for Two",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "My Angel Childhood Friend was a Gal When We Met Again",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "There's No Freaking Way I'll be Your Lover! Unless...",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Making Progress on Yuri Before the Deadline",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Hokenshitsu wa Futarikiri",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "The plain girl sitting next to me",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Marry A Girl Friend.",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "The Skirt Sings at the Landing",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Tonari no Seki ga Suki na Hito Fatta: Gakusei Yuri Anthology",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "NTR: Netsuzou Trap",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Read"
     },
     {
         "name": "Yuri Is My Job!",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Minato Shouji Coin Laundry",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Ichika, Bachika",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Old-Fashioned Cupcake",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Fragtime",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Sakura Trick",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Irresistible Person",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "How to Love a Secret You Can't Tell Anyone About",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "5 Seconds Before a Witch Falls in Love",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "After Hours",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "A Tropical Fish Yearns for Snow",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "40 made ni Shitai 10 no Koto",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Read"
     },
     {
         "name": "Sukeban to Tenkousei",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Cats and Sugar Bowls",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Otherside Picnic",
         "author": null,
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Oshi no Ko",
         "author": "Aka Akasaka",
         "genre": "Seinen",
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Currently reading"
     },
     {
         "name": "The Moon on a Rainy Night",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Living With My Brother's Wife",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Inugami-san to Nekoyama-san",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Yuri Hime Wildrose",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Harmony",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "After School Étude",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "I Love You So Much, I Hate You",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "SCHOOL ZONE GIRLS",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "How Do I Turn My Best Friend Into My Girlfriend?",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Kageki Shoujo!! Season Zero",
         "author": null,
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Kageki Shoujo!!",
         "author": null,
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Cowboy Bepop",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "Hazbin Hotel",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Animated Series",
+        "progress": "Seen"
     },
     {
         "name": "Red vs. Blue",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Animated Series",
+        "progress": "Not seen"
     },
     {
         "name": "Record of Ragnarok",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
         "author": null,
         "genre": null,
-        "category": null
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "The Amazing Digital Circus",
         "author": null,
         "genre": null,
-        "category": "Animated Series"
+        "category": "Animated Series",
+        "progress": "Seen"
     },
     {
         "name": "Jellyfish Can't Swim in the Night",
         "author": null,
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "La química del amor",
         "author": "Ali Hazelwood",
         "genre": null,
-        "category": "Book"
+        "category": "Book",
+        "progress": "Not read"
     },
     {
         "name": "La hipótesis del amor",
         "author": "Ali Hazelwood",
         "genre": null,
-        "category": "Book"
+        "category": "Book",
+        "progress": "Not read"
     },
     {
         "name": "La búsqueda del cliché perfecto",
         "author": "Michelle Durán",
         "genre": null,
-        "category": "Book"
+        "category": "Book",
+        "progress": "Not read"
     },
     {
         "name": "Y el mundo no dejaba de girar",
         "author": "Susana Herrero",
         "genre": null,
-        "category": "Book"
+        "category": "Book",
+        "progress": "Not read"
     },
     {
         "name": "Empire of Sin",
         "author": "Rina Kent",
         "genre": null,
-        "category": "Book"
+        "category": "Book",
+        "progress": "Not read"
     },
     {
         "name": "Novia",
         "author": "Ali Hazelwood",
         "genre": null,
-        "category": "Book"
+        "category": "Book",
+        "progress": "Not read"
     },
     {
         "name": "Kaoru Hana wa Rin to Saku",
         "author": "Saka Mikami",
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Ao no Hako",
         "author": "Kouji Miura",
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "2.5 Dimensional Seduction",
         "author": null,
         "genre": null,
-        "category": "Manga"
+        "category": "Manga",
+        "progress": "Not read"
     },
     {
         "name": "Frieren: Beyond Journey's End",
         "author": null,
         "genre": "Shonen, Fantasy",
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Not seen"
     },
     {
         "name": "The Apothecary Diaries",
         "author": "Natsu Hyuuga",
         "genre": "Drama, Mystery, Romance",
-        "category": "Anime Series"
+        "category": "Anime Series",
+        "progress": "Started"
+    },
+    {
+        "name": "La canción de Aquiles",
+        "author": "Madeline Miller",
+        "genre": "Romance, Fantasy, History, War",
+        "category": "Book",
+        "progress": "Read"
+    },
+    {
+        "name": "Epic: The Musical",
+        "author": null,
+        "genre": "Adapted from the Odyssey",
+        "category": "Musical",
+        "progress": "In progress"
     }
 ]
