@@ -8,7 +8,14 @@ html {
     height: 100%;
 }
 
-select {
+#title {
+    color: #E40303;
+    text-shadow: 5px 5px #FF8C00, 10px 10px #FFED00, 15px 15px #008026, 20px 20px #24408E, 25px 25px #732982;
+    text-align: center;
+    font-size: 70px;
+}
+
+#selector {
     background: white;
     border: none;
     border-radius: 5px;
@@ -23,7 +30,7 @@ select {
     width: 60%;
 }
 
-input {
+#search-bar {
     border: none;
     border-radius: 5px;
     display: block;
@@ -34,11 +41,11 @@ input {
     width: 60%;
 }
 
-input:focus {
+#search-bar:focus {
     outline: none;
 }
 
-table {
+#results {
     background: white;
     border: 1px solid black;
     border-collapse: collapse;
@@ -48,13 +55,13 @@ table {
     width: 65%;
 }
 
-th {
+#results th {
     background: white;
     border: 1px solid black;
     padding: 10px;
 }
 
-td {
+#results td {
     background: white;
     border: 1px solid black;
     text-align: center;
@@ -62,6 +69,6 @@ td {
     vertical-align: middle;
 }
 
-tr:hover td {
+#results tr:hover td {
     background: lightpink;
 }

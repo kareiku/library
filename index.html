@@ -5,28 +5,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kare's Library</title>
-    <link rel="icon" href="./icon.ico">
+    <link rel="icon" href="icon.ico">
     <link rel="stylesheet" href="styles.css" type="text/css">
 </head>
-
 <body>
+<h1 id="title">Kare's Library</h1>
 <label for="selector"></label>
 <select id="selector">
     <option value="name">Name</option>
     <option value="author">Author</option>
-    <option value="category">Category</option>
     <option value="genre">Genre</option>
+    <option value="category">Category</option>
 </select>
-<label for="filter"></label><input type="search" id="filter" oninput="filterTable()" placeholder="Filter by name..." autofocus>
-<table id="results">
-    <tr>
-        <th>Name</th>
-        <th>Author</th>
-        <th>Category</th>
-        <th>Genre</th>
-        <th>Progress</th>
-    </tr>
-</table>
+<label for="search-bar"></label>
+<input id="search-bar" type="search" placeholder="Filter by name...">
+<table id="results"></table>
 <script src="script.js"></script>
 </body>
 </html>
