@@ -8,7 +8,7 @@ html {
     height: 100%;
 }
 
-#title {
+.title {
     color: #E40303;
     text-shadow: 5px 5px #FF8C00, 10px 10px #FFED00, 15px 15px #008026, 20px 20px #24408E, 25px 25px #732982;
     text-align: center;
