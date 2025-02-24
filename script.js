@@ -5,7 +5,7 @@ const field = document.getElementById("selector");
 const input = document.getElementById("search-bar");
 
 window.addEventListener("load", () => {
-    fetch("/data")
+    fetch("./data")
         .then(response => response.json())
         .then(data => entries = data)
         .then(() => loadTable())
